@@ -28,6 +28,7 @@ This repository contains:
 - Real world Pictures (some projects)
 - a .stl file for each model's final assembly
 - Readme file in each folder with basic functional explanations of each project.
+- A Technical Drawings folder showcasing my engineering drawing skills.
 
 You can browse each project in its own folder.
 
@@ -45,5 +46,6 @@ Tools & Software Used
 -----
 
 Thank you for viewing my portfolio!
+
 
 
