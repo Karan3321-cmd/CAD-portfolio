@@ -29,7 +29,6 @@ This repository contains:
 - a .stl file for each model's final assembly
 - Readme file in each folder with basic functional explanations of each project
 - A Technical Drawings folder showcasing my engineering drawing skills
-- Some 3D printing projects i have done
 
 You can browse each project in its own folder.
 
@@ -47,6 +46,7 @@ Tools & Software Used
 -----
 
 Thank you for viewing my portfolio!
+
 
 
 
