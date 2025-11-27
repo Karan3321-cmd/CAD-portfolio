@@ -1,1 +1,17 @@
+This project repurposed an old 10.1-inch tablet into a secondary display for my laptop setup.
+The stand was designed in Onshape and developed through several design iterations.
 
+Key Steps taken:
+- Measured the tablet, including bezel and charging-port clearances, and modelled it accurately in CAD.
+- Designed the holding mount and stand structure.
+- Iterated multiple concepts for a rotation mechanism to enable both portrait and landscape orientations.
+- Developed a rod-and-axle hinge providing free rotation with good structural strength.
+- Added a slot-and-peg height-adjustment system to the stand.
+- Estimated the centre of mass using the formula x=​∑Ai​xi/​​∑Ai, to ensure stability and prevent tipping.
+- 3D printed and assembled the components using superglue and plastic welding (soldering iron) for added strength.
+
+Lessons Learned:
+A sealed air cavity in the stand made height adjustment difficult.
+An air-relief hole was added in the 3D printed part to resolve this issue.
+
+Overall, the project was successful, functional, and continues to work reliably.
