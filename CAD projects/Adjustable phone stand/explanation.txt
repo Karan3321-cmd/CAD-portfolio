@@ -1,0 +1,8 @@
+This project involved researching existing portable, slim, and adjustable mobile phone stands and integrating their strongest features to develop an improved design.
+
+Key steps included:
+- Conducting market research on current products and pricing
+- Taking measurements from existing models and creating initial design concepts
+- Producing a final design and fabricating it using 3D printing
+
+The stand functioned as intended; however, the hinge mechanism would be significantly more durable if manufactured through injection molding rather than 3D printing.
