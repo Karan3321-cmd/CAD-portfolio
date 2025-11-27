@@ -8,10 +8,13 @@ This repository showcases a collection of my design, modelling, and prototyping 
 Projects include mechanical assemblies, functional components, rapid prototypes, and various engineering design challenges.
 
 
+
 -----
 
 
+
 ### **About Me**
+
 
 
 I am a B. Eng Mechanical \& Design Engineering student with hands-on experience in:
@@ -31,10 +34,13 @@ I am a B. Eng Mechanical \& Design Engineering student with hands-on experience 
 I enjoy solving real world engineering problems and building functional designs that can be manufactured.
 
 
+
 -----
 
 
+
 ### **Portfolio Contents**
+
 
 
 This repository contains:
@@ -54,37 +60,34 @@ This repository contains:
 You can browse each project in its own folder.
 
 
+
 -----
+
 
 
 ### **Tools \& Software Used**
 
 
-| Category     | Tools                                    |
 
-|--------------|------------------------------------------|
-
-| CAD          | Onshape, Fusion 360, Siemens NX          |
-
-| Simulation   | Basic FEA (Onshape)                      |
-
-| Prototyping  | 3D Printing (FDM), Laser Cutting, CNC, Sandblasting |
-
-| Programming  | Python, MATLAB (basic)                   |
+```
+| Category     | Tools                                                |
+|              |                                                      |
+| CAD          | Onshape, Fusion 360, Siemens NX                      |
+|              |                                                      |
+| Simulation   | Basic FEA (Onshape)                                  |
+|              |                                                      |
+| Prototyping  | 3D Printing (FDM), Laser Cutting, CNC, Sandblasting  |
+|              |                                                      |
+| Programming  | Python, MATLAB (basic)                               |
+|              |                                                      |
+```
 
 
 
 -----
 
 
-#### Thank you for viewing my portfolio!
 
-
-
-
-
-
-
-
+### Thank you for viewing my portfolio!
 
 
