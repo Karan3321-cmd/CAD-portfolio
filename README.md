@@ -5,21 +5,16 @@
 Welcome to my Engineering CAD portfolio.  
 
 This repository showcases a collection of my design, modelling, and prototyping work created using Onshape, and Fusion 360.
-
 Projects include mechanical assemblies, functional components, rapid prototypes, and various engineering design challenges.
-
 
 
 -----
 
 
-
 ### **About Me**
 
 
-
 I am a B. Eng Mechanical \& Design Engineering student with hands-on experience in:
-
 
 
 \- CAD modelling (Onshape, Fusion 360, Siemens NX)
@@ -33,21 +28,16 @@ I am a B. Eng Mechanical \& Design Engineering student with hands-on experience 
 \- Mechanical design principles and DFM
 
 
-
 I enjoy solving real world engineering problems and building functional designs that can be manufactured.
-
 
 
 -----
 
 
-
 ### **Portfolio Contents**
 
 
-
 This repository contains:
-
 
 
 \- Screenshots of CAD models
@@ -61,38 +51,34 @@ This repository contains:
 \- A Technical Drawings folder showcasing my engineering drawing skills
 
 
-
 You can browse each project in its own folder.
 
 
-
 -----
-
 
 
 ### **Tools \& Software Used**
 
 
+| Category     | Tools                                    |
 
-| Category     | Tools                                               |
+|--------------|------------------------------------------|
 
-|              |                                                     |
+| CAD          | Onshape, Fusion 360, Siemens NX          |
 
-| CAD          | Onshape, Fusion 360, Siemens NX                     |
+| Simulation   | Basic FEA (Onshape)                      |
 
-| Simulation   | Basic FEA (Onshape)                                 |
+| Prototyping  | 3D Printing (FDM), Laser Cutting, CNC, Sandblasting |
 
-| Prototyping  | 3D Printing (FDM), Laser Cutting, CNC, Sandblasing  |
-
-| Programming  | Python, MATLAB (basic)                              |
+| Programming  | Python, MATLAB (basic)                   |
 
 
 
 -----
 
 
-
 #### Thank you for viewing my portfolio!
+
 
 
 
