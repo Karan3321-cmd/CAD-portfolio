@@ -1,0 +1,2 @@
+This folder contains technical drawings of my projects, showcasing my skills and expertise in basic engineering design. 
+It also includes a parts list drawing, essential for understanding complex assemblies with multiple components.
