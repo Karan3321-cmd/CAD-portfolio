@@ -1,0 +1,16 @@
+This project involved designing a temperature-regulated enclosure for my 3D printer to improve print quality and reduce defects such as layer banding and elephant-footing caused by uneven cooling. The goal was to create a stable thermal environment during prints.
+
+Key Steps:
+
+- Measured the printer with added clearance for bed travel and moving components.
+- Researched commercial enclosures and common temperature-control methods used in enclosed printers.
+- Designed an initial fully 3D-printed enclosure, but moved away from it due to poor cost-to-value efficiency.
+- Developed V2, using a structural frame with foam-board panels to make it more cost efficent and add more thermal insulation.
+- Improved the design in V3, adding a 92 mm exhaust fan and a redesigned opening system, though temperature control remained inconsistent.
+- Finalised V4, integrating a temperature sensor and a PWM fan-speed controller to achieve precise manual control of chamber temperature and airflow.
+- 3D printed, glued, and plastic-welded components; added foam-board insulation and clear PETG front/top panels for clear visibility during printing.
+
+Potential Future Improvements:
+Integrate an Arduino-based control system to connect with a smartphone app, allowing the target temperature to be set automatically with dynamic fan-speed adjustment.
+
+Overall, the enclosure project was highly successful and performs exactly as intended.
