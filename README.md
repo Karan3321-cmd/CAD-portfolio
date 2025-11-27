@@ -1,4 +1,4 @@
-### **Karan – CAD Portfolio**
+## **Karan – CAD Portfolio**
 
 
 
@@ -14,7 +14,7 @@ Projects include mechanical assemblies, functional components, rapid prototypes,
 
 
 
-#### **About Me**
+### **About Me**
 
 
 
@@ -42,7 +42,7 @@ I enjoy solving real world engineering problems and building functional designs 
 
 
 
-#### **Portfolio Contents**
+### **Portfolio Contents**
 
 
 
@@ -70,7 +70,7 @@ You can browse each project in its own folder.
 
 
 
-#### **Tools \& Software Used**
+### **Tools \& Software Used**
 
 
 
@@ -92,7 +92,8 @@ You can browse each project in its own folder.
 
 
 
-##### Thank you for viewing my portfolio!
+#### Thank you for viewing my portfolio!
+
 
 
 
