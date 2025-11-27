@@ -71,7 +71,7 @@ You can browse each project in its own folder.
 
 ```
 | Category     | Tools                                                |
-|              |                                                      |
+|--------------|------------------------------------------------------|
 | CAD          | Onshape, Fusion 360, Siemens NX                      |
 |              |                                                      |
 | Simulation   | Basic FEA (Onshape)                                  |
@@ -89,5 +89,6 @@ You can browse each project in its own folder.
 
 
 ### Thank you for viewing my portfolio!
+
 
 
