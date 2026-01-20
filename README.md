@@ -74,9 +74,9 @@ You can browse each project in its own folder.
 |--------------|------------------------------------------------------|
 | CAD          | Onshape, Fusion 360, Siemens NX                      |
 |              |                                                      |
-| Simulation   | Basic FEA (Onshape)                                  |
+| Simulation   | Basic FEA (ABAQUS)                                   |
 |              |                                                      |
-| Prototyping  | 3D Printing (FDM), Laser Cutting, CNC, Sandblasting  |
+| Prototyping  | 3D Printing (FDM), Laser Cutting, CNC                |
 |              |                                                      |
 | Programming  | Python, MATLAB (basic)                               |
 |              |                                                      |
@@ -89,6 +89,7 @@ You can browse each project in its own folder.
 
 
 ### Thank you for viewing my portfolio!
+
 
 
 
