@@ -20,7 +20,7 @@ Projects include mechanical assemblies, functional components, rapid prototypes,
 I am a B. Eng Mechanical \& Design Engineering student with hands-on experience in:
 
 
-\- CAD modelling (Onshape, Fusion 360, Siemens NX)
+\- CAD modelling (Onshape, Fusion 360, SolidWorks, Siemens NX)
 
 \- CNC machining, laser cutting, 3D printing (FDM)
 
